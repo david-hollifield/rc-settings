@@ -1,0 +1,25 @@
+body { background-attachment:fixed; }
+a:link { color: #0000FF; }
+a:visited { color: #0000FF; }
+a:active { color: #0000FF; }
+a:hover { color: #000060; }
+.back { background: #000000; color:#FFFFFF; }
+.front { background: #FFFFFF; color:#000000; }
+.remote { background: #FFFFFF; color:#000000; }
+.backremote { background: #000000; color:#FFFFFF; }
+.frontremote { background: #FFFFFF; color:#000000; }
+.pronto1 { font-family:Pronto,Arial,Helvetica,sans-serif; font-style:normal; font-size: 12px; }
+.pronto2 { font-family:Pronto,Arial,Helvetica,sans-serif; font-style:normal; font-size: 14px; }
+.pronto3 { font-family:Pronto,Arial,Helvetica,sans-serif; font-style:normal; font-size: 16px; }
+.pronto4 { font-family:Pronto,Arial,Helvetica,sans-serif; font-style:normal; font-size: 18px; }
+.pronto5 { font-family:Pronto,Arial,Helvetica,sans-serif; font-style:normal; font-size: 20px; }
+.pronto6 { font-family:Pronto,Arial,Helvetica,sans-serif; font-style:normal; font-size: 22px; }
+td b { }
+td p { }
+h2 { }
+h2 { }
+h3 { }
+h4 { }
+h5 { }
+h6 { }
+h7 { }
